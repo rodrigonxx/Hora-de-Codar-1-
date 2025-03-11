@@ -41,7 +41,7 @@ programa
 	//QUADRADO
 	escreva ("Informe o valor da Base: ")
 	leia(base)
-	escreva ("Informe o valor da Altura: ")
+	escreva ("Informe o valor da Base: ")
 	leia(altura)
 	
 	quadrado = base * base
